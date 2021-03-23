@@ -2,6 +2,7 @@
 
 function insertionSort(list) {
   // your code here
+  
 }
 
 module.exports = {
