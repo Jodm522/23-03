@@ -41,6 +41,9 @@ function mergeSort(array) {
   let sortedRight = mergeSort(rightHalf);
 
   return merge(sortedLeft, sortedRight);
+
+
+
 }
 
 console.log(mergeSort([2, -1, 4, 3, 7, 3]));
